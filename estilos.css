@@ -1,0 +1,25 @@
+table th{
+    width: 10em;
+}
+
+table{
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 2%;
+}
+
+body{
+    background-color: #D0D3D4;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tr:nth-last-of-type(2){
+    background-color: #FF5900;
+}
+
+tr:nth-last-of-type(1){
+    background-color: #FFFB00;
+}
